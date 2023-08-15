@@ -1,6 +1,6 @@
 # ANLY 502 Project
 
-# **Git Pages link: https://gu-anly502.github.io/fall-2022-reddit-big-data-project-project-group-27/index.html**
+# **Git Pages link: https://clara-richter.github.io/Big-Data-Reddit2/**
 
 ## Project overview and objective
 
